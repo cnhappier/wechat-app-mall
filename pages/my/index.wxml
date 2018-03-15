@@ -44,6 +44,6 @@
   </view>
   
   <view style="height:20rpx;background: #eee;width:100%;"></view>
-  <view class="version">Powered by EastWorld v {{version}}</view>
+  <view class="version">Prowered by 广州沃河酒业有限公司</view>
   <view style="height:20rpx;background: #eee;width:100%;"></view>
 </view>
